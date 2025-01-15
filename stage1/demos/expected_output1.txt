@@ -1,0 +1,1 @@
+String "abc" added to the blockchain

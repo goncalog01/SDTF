@@ -1,0 +1,3 @@
+String "abc" added to the blockchain
+String "def" added to the blockchain
+String "ghi" added to the blockchain

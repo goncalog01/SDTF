@@ -1,0 +1,7 @@
+member,1,8080,1,0
+member,2,8081,0,0
+member,3,8082,0,0
+member,4,8083,0,1,spam
+client,5,8084
+client,6,8085
+client,7,8086
